@@ -1,0 +1,19 @@
+{
+  "name": "aliyun-nodejs",
+  "version": "1.0.0",
+  "description": "Alibaba Cloud Function Compute Node.js Template for the Serverless Framework.",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "serverless",
+    "aliyun"
+  ],
+  "devDependencies": {
+    "serverless": "^1.28.0",
+    "serverless-aliyun-function-compute": "^1.2.0"
+  },
+  "dependencies": {
+    "ms": "^2.1.1",
+    "request": "^2.87.0"
+  }
+}
